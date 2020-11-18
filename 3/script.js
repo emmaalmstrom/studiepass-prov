@@ -4,6 +4,8 @@
 
 // När du gjort ovanstående, kör skriptet med node och jämför resultatet.
 
+// min gissning: A G C E B F D H
+
 console.log('A')
 
 function foo() {
