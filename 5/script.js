@@ -5,4 +5,4 @@ function returnLastElement(arr) {
 
 const bilar = ['volksvagen', 'BMW', 'Volvo', 'Skoda', 'Tesla']
 
-console.log(returnLastElement(bilar))
+console.log(returnLastElement(bilar)) 
